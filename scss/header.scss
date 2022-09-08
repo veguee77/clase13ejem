@@ -1,0 +1,15 @@
+header{
+    background-color: $bgPrimario;
+    div{
+        padding: 10px;
+        h3{
+            font-size: 30px;
+        }
+    }
+}
+a{
+    text-decoration: none;
+    &:hover{
+        color: $colorPrimario;
+    }
+}
