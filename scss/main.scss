@@ -1,0 +1,9 @@
+
+.cover{
+    background-color: $bgPrimario;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    h1{color: $colorPrimario;}
+    p{color: $colorSecundario;}
+}
